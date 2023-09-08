@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdamEx2", "AdamEx2\AdamEx2.csproj", "{C17EA9FF-01D5-476F-AD3F-0A0A4DD26019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17EA9FF-01D5-476F-AD3F-0A0A4DD26019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17EA9FF-01D5-476F-AD3F-0A0A4DD26019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17EA9FF-01D5-476F-AD3F-0A0A4DD26019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17EA9FF-01D5-476F-AD3F-0A0A4DD26019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B900EF-06E6-4380-82C4-F6F575A3215A}
+	EndGlobalSection
+EndGlobal

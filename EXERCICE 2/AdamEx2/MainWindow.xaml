@@ -1,0 +1,19 @@
+﻿<Window x:Class="AdamEx2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdamEx2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,729,388">
+
+        <Button Content="UpLe" Margin="365,164,-337,-152"></Button>
+        <Button Content="UpRi" Margin="408,164,-380,-152"/>
+        <Button Content="DoLe" Margin="365,198,-337,-186"/>
+        <Button Content="DoRi" Margin="408,198,-380,-186"/>
+
+    </Grid>
+
+
+</Window>
